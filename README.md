@@ -1,1 +1,1 @@
-# miniapp_project
+# Miniapp project
