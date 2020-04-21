@@ -1,0 +1,12 @@
+{
+  "name": "tic-tok-tac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "keywords": [],
+  "author": "Albert Wu",
+  "license": "ISC"
+}
